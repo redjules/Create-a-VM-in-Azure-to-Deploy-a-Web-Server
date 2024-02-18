@@ -1,4 +1,4 @@
-# Create a-VM-in-Azure-to-Deploy-a-Web-Server
+# Create a VM in Azure to Deploy a Web Server
 
 In this project, we are going to focus on eight points:
 
