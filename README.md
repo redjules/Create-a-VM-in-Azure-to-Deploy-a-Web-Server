@@ -57,3 +57,8 @@ we create a new subnet (AzureBastionSubnet):
 now we create a virtual machine:
 
 ![Screenshot 2024-02-19 at 01 27 01](https://github.com/redjules/Create-a-VM-in-Azure-to-Deploy-a-Web-Server/assets/106017493/6f60cb15-6cb9-45fc-bb82-c16a06527685)
+
+and connect with Bastion:
+
+![Screenshot 2024-02-19 at 02 36 03](https://github.com/redjules/Create-a-VM-in-Azure-to-Deploy-a-Web-Server/assets/106017493/a4bacf3c-ec1b-412e-85a9-fab2729e7079)
+
