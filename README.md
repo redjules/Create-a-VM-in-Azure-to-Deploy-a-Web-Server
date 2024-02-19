@@ -62,3 +62,29 @@ and connect with Bastion:
 
 ![Screenshot 2024-02-19 at 02 36 03](https://github.com/redjules/Create-a-VM-in-Azure-to-Deploy-a-Web-Server/assets/106017493/a4bacf3c-ec1b-412e-85a9-fab2729e7079)
 
+we copy the command 'sudo snap install nextcloud' in the terminal to install nextcloud in our machine
+
+![Screenshot 2024-02-19 at 16 37 06](https://github.com/redjules/Create-a-VM-in-Azure-to-Deploy-a-Web-Server/assets/106017493/2b47a2bf-e54d-477c-85f6-58ec0465de83)
+
+we go to IP configurations:
+
+![Screenshot 2024-02-19 at 16 38 41](https://github.com/redjules/Create-a-VM-in-Azure-to-Deploy-a-Web-Server/assets/106017493/6ef7a226-b60e-4e0f-a655-12570f32e6c9)
+
+we add an inbound security rule with our own IP address:
+
+![Screenshot 2024-02-19 at 16 40 14](https://github.com/redjules/Create-a-VM-in-Azure-to-Deploy-a-Web-Server/assets/106017493/ab9937e9-31fb-416b-a17e-c2df134ac269)
+
+if we copy the IP, it works!
+
+![Screenshot 2024-02-19 at 16 41 42](https://github.com/redjules/Create-a-VM-in-Azure-to-Deploy-a-Web-Server/assets/106017493/c78d528f-aea4-4a91-a0ea-96472ddcd8c2)
+
+we create a DNS label and connect with Bastion
+
+![Screenshot 2024-02-19 at 16 44 27](https://github.com/redjules/Create-a-VM-in-Azure-to-Deploy-a-Web-Server/assets/106017493/27e0b927-7611-4960-b68c-73ac847f547a)
+
+now nextcloud is ruuning:
+
+![Screenshot 2024-02-19 at 16 45 02](https://github.com/redjules/Create-a-VM-in-Azure-to-Deploy-a-Web-Server/assets/106017493/fcc11951-236c-4d79-bcb4-1b33ad505967)
+
+![Screenshot 2024-02-19 at 16 46 10](https://github.com/redjules/Create-a-VM-in-Azure-to-Deploy-a-Web-Server/assets/106017493/84318d86-17e5-4b7f-ab0b-32030dfc6122)
+
